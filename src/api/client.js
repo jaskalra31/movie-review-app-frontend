@@ -1,5 +1,5 @@
 import axios from "axios";
 
-const client = axios.create({ baseURL: "https://63ccece26664056898cc8cad--cosmic-gumdrop-9aba53.netlify.app/api" });
+const client = axios.create({ baseURL: "https://movie-review-app-backend-production.up.railway.app/api" });
 
 export default client;
